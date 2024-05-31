@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm eunseo</h1>
 - 💬 Ask me about **rezct, vue.js and solidity**
 
-- 📫 How to reach me **jpmdyh21@gmail.com**
+📫 How to reach me - **jpmdyh21@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
