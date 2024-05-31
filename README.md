@@ -12,5 +12,3 @@
 <h3>Baekjun Tier</h3>
 
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=pieun)](https://solved.ac/pieun)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?pdmstj=anuraghazra&layout=compact)
