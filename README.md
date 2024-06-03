@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm eunseo</h1>
-- 💬 Ask me about **rezct, vue.js and solidity**
+💬 Ask me about **rezct, vue.js and solidity**
 
 📫 How to reach me - **jpmdyh21@gmail.com**
 
