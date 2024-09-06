@@ -20,7 +20,7 @@
 <br>
 <br>
 
-<h3 align="center">S✨My Interest</h3>
+<h3 align="center">✨My Interest ranguage</h3>
 <div align="center">
     <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
     <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white">
