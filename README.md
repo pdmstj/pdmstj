@@ -5,10 +5,14 @@
         </tr>
 </table>
 <br>
+<br>
+<br>
+<br>
+<br>
 <table width="300" border="2" bordercolor="blue" align="right">
         <tr>
 <!--           <p align="right">💬</p> -->
-          <th>안녕하세요, 성장해나아가는 개발자 '피은서'입니다!<br></th>
+          <th>안녕하세요, 부족하지만 도전하며 성장하는 개발자 '피은서'입니다!<br></th>
         </tr>
 </table>
 <br>
@@ -34,12 +38,13 @@
 <br>
 <br>
 
-  <h3><p align="center">My Social
-    <a href="https://instagram.com/https://www.instagram.com/p._.dmstj/" target="blank">
-  <div align="center">
-   
+  <h3 align="center">My Social</h3>
+<p align="center">
+   <a href="https://www.instagram.com/p._.dmstj/" target="_blank">
+      <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
+   </a>
+</p>
     </div>
-    
   <br>
   <br>
 
