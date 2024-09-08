@@ -1,6 +1,3 @@
-물론입니다! 앞서 제안한 모든 요소를 한 번에 합쳐서 깔끔하게 구성해보았습니다. 이 코드를 그대로 복사하여 GitHub 프로필 README에 적용하시면 됩니다.
-
-```md
 <!-- 헤더 배너 -->
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header&text=Welcome%20to%20Pieun's%20GitHub!&fontSize=40)
 
