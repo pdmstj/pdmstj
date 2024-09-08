@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header&text=Welcome%20to%20my%20story!&fontSize=40)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:003366,100:0066cc&height=100&section=header&text=Welcome%20to%20my%20story!&fontSize=40&fontColor=FFFFFF)
 
 <br>
 
@@ -48,16 +48,15 @@
 
 ## <div align="center">📊 GitHub Stats 📊</div>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pdmstj&show_icons=true&theme=default" alt="피은서's GitHub stats" style="margin-right: 10px;">
-   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pdmstj&layout=compact&theme=default" alt="Top Langs" width="400" height="194" style="margin-left: 10px;">
+  <img src="https://github-readme-stats.vercel.app/api?username=pdmstj&show_icons=true&theme=default" alt="피은서's GitHub stats" width="400" height="200" style="margin-right: 10px;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pdmstj&layout=compact&theme=default" alt="Top Langs" width="400" height="200">
 </div>
 <br>
 <div align="center">
   <a href="https://git.io/streak-stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=pdmstj&theme=default" alt="GitHub Streak">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=pdmstj&theme=default" alt="GitHub Streak" width="800" height="200">
   </a>
 </div>
-
 
 <br><br><br><br>
 
