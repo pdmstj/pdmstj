@@ -10,7 +10,7 @@
         </tr>
 </table>
 
-<br><br><br>
+<br><br><br><br>
 
 <table width="300" border="2" bordercolor="blue" align="right">
         <tr>
@@ -46,16 +46,18 @@
    
 <br><br><br><br>
 
-## <div align="center">📊GitHub Stats📊</div>
+## <div align="center">📊 GitHub Stats 📊</div>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pdmstj&show_icons=true&theme=radical" alt="피은서's GitHub stats">
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pdmstj&layout=compact&theme=radical" alt="Top Langs">
-  <br>
+  <img src="https://github-readme-stats.vercel.app/api?username=pdmstj&show_icons=true&theme=default" alt="피은서's GitHub stats" style="margin-right: 10px;">
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pdmstj&layout=compact&theme=default" alt="Top Langs" width="400" height="194" style="margin-left: 10px;">
+</div>
+<br>
+<div align="center">
   <a href="https://git.io/streak-stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=pdmstj&theme=radical" alt="GitHub Streak">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=pdmstj&theme=default" alt="GitHub Streak">
   </a>
 </div>
+
 
 <br><br><br><br>
 
