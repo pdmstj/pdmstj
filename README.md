@@ -15,14 +15,14 @@
 <table width="300" border="2" bordercolor="blue" align="right">
         <tr>
           <th>
-            <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=5000&color=000000&vCenter=true&width=600&lines=안녕하세요,+부족하지만+도전하며+성장하는+개발자+'피은서'입니다!&repeat=true&multiline=true" alt="타이핑 애니메이션">
+            <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=1&pause=5000&color=000000&vCenter=true&width=600&lines=안녕하세요,+부족하지만+도전하며+성장하는+개발자+'피은서'입니다!&repeat=true&multiline=true" alt="타이핑 애니메이션">
           </th>
         </tr>
 </table>
 
 <br><br><br><br><br><br><br>
 
-## <div align="center">✨My Interest ranguage✨</div>
+## <div align="center">✨ My Interest ranguage ✨</div>
 <div align="center">
    <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white">
     <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
@@ -42,7 +42,7 @@
 
 <br><br><br><br>
 
-## <div align="center">🌐My Social🌐</div>
+## <div align="center">🌐 My Social 🌐</div>
 <div align="center">
   <a href="https://www.instagram.com/p._.dmstj/" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="30" />
@@ -72,7 +72,7 @@
 
 <br><br><br><br>
 
-## <div align="center">🥇Baekjun Tier🥇</div>
+## <div align="center">🥇 Baekjun Tier 🥇</div>
 <div align="center">
   <a href="https://solved.ac/pieun">
     <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=pieun" alt="Solved.ac 프로필" />
