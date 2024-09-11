@@ -70,7 +70,7 @@
   </a>
 </div>
 
-<br><br><br><br>
+<br><br><br>
 
 ## <div align="center">🥇 Baekjun Tier 🥇</div>
 <div align="center">
