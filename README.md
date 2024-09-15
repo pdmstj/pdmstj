@@ -56,7 +56,7 @@
   <img src="https://github-profile-trophy.vercel.app/?username=pdmstj&theme=gruvbox-light&no-frame=true&margin-w=10" alt="GitHub Trophies" />
 </div>
 
-<br><br><br><br>
+<br><br><br>
 
 ## <div align="center">📊 GitHub Stats 📊</div>
 <div align="center">
