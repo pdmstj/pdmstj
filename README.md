@@ -10,7 +10,7 @@
         </tr>
 </table>
 
-<br><br><br><br>
+<br><br><br>
 
 <table width="300" border="2" bordercolor="blue" align="right">
         <tr>
