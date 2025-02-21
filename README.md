@@ -1,7 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:003366,100:0066cc&height=140&section=header&text=Welcome%20to%20my%20story!&fontSize=40&fontColor=FFFFFF)
 
 <br>
-
 <table width="300" border="2" bordercolor="blue" align="left">
         <tr>
           <th>
