@@ -88,12 +88,6 @@
   </a>
 </div>
 
-## 🐍 Snake Eating My GitHub Contributions
-
-<p align="center">
-  <img src="https://github.com/pdmstj/pdmstj/blob/output/github-contribution-grid-snake.svg" alt="snake">
-</p>
-
 
 
 
