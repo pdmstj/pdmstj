@@ -44,9 +44,14 @@
 ## <div align="center">🌐 My Social 🌐</div>
 <div align="center">
   <a href="https://www.instagram.com/p._.dmstj/" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="30" />
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="30" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://velog.io/@p_dmstj/posts" target="_blank">
+    <img src="https://img.shields.io/badge/Velog-20C997?style=flat&logo=velog&logoColor=white" alt="Velog Badge"/>
   </a>
 </div>
+
    
 <br><br><br><br>
 
