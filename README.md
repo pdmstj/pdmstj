@@ -71,6 +71,15 @@
 
 <br><br>
 
+## <div align="center">🐮 Git Farm 🐮</div>
+<p align="center">
+  <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=pdmstj&utm_content=farm">
+    <img src="https://render.gitanimals.org/farms/pdmstj" width="600" height="300" />
+  </a>
+</p>
+
+<br><br>
+
 ## <div align="center">🥇 Baekjun Tier 🥇</div>
 <div align="center">
   <a href="https://solved.ac/pieun">
