@@ -62,17 +62,6 @@
 
 <br><br><br>
 
-## <div align="center">📊 GitHub Stats 📊</div>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pdmstj&show_icons=true&theme=default" alt="피은서's GitHub stats" width="400" height="200" style="margin-right: 10px;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pdmstj&layout=compact&theme=default" alt="Top Langs" width="400" height="200">
-</div>
-<br>
-<div align="center">
-  <a href="https://git.io/streak-stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=pdmstj&theme=default" alt="GitHub Streak" width="800" height="200">
-  </a>
-</div>
 
 <br><br>
 
